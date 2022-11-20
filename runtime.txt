@@ -1,1 +1,2 @@
-python-3.10.8
+web:python-3.10.8
+worker:python-3.10.8
