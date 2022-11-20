@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/009564288_Dk_logo.jpeg" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/Dkmovie/DK_Moviefilter-url-shortener-bot/blob/main/assets/009564288_Dk_logo.png" alt="Dkmovie,s Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Dkmovie Bot</b>
 </h1>
 
 
